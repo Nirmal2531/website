@@ -26,6 +26,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 # PROGRAM:
+```
 res.html
 
 <!DOCTYPE html>
@@ -763,6 +764,7 @@ order.html
 </footer>
 </body>
 </html>
+```
 # OUTPUT:
 <img width="1038" height="596" alt="530380349-cbc55eea-7c9d-4a1e-82fe-c741e8d97cfb" src="https://github.com/user-attachments/assets/6439b904-78bb-48d6-bee2-cc382b4424b0" />
 <img width="1034" height="580" alt="530380539-e467fb5b-5f6a-43dd-b0ce-82d2fa3d38b3" src="https://github.com/user-attachments/assets/521bd4ec-bff7-4eee-b989-da7915ffb216" />
